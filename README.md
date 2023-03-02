@@ -18,5 +18,5 @@ Lithium Ion battery IO for charging, and with enough voltage and capacity to run
 * Overall size should not exceed 3.5" x 3.5", though the battery and other buttons will be wired separately so this size limit only pertains to the PCB itself. There is a little bit of leeway with this sizing which can be discussed.
 
 ### Secondary PCB
-* It will feature 2 x JST ports 3-pin on either sides for IN and OUT connections forming daisy chain.
+* It will feature 2 x JST ports 3-pin on either sides for IN and OUT connections forming daisy chain and will simply have 3 WS2812B LED lights in the center.
 * Size of the PCB will be 1.5" short diagonal x 1.7" long diagonal hexagonal PCB.
