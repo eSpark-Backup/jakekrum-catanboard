@@ -13,6 +13,7 @@ The product will comprise of 2 x PCBs that will be referred throughout the cours
 Lithium Ion battery IO for charging, and with enough voltage and capacity to run the whole system for at least an hour. The battery chemistry and size are not final and depend on the final recommendation / negotiation between contractor and customer.
 * A port or set of soldering pads (TH) for a latching on/off switch to be easily installed.
 * A port or set of soldering pads (TH) for a charging port to be easily installed.
+* A port or set of soldering pads (TH) for a battery monitoring product. There will be 2 x soldering pads given after the latch circuit.
 * Ports or soldering pads (TH) for (5) momentary push buttons to be easily installed and individually addressable.
 * A port or set of soldering pads (TH) for (1) latching switch to be easily installed and individually addressable.
 * Overall size should not exceed 3.5" x 3.5", though the battery and other buttons will be wired separately so this size limit only pertains to the PCB itself. There is a little bit of leeway with this sizing which can be discussed.
