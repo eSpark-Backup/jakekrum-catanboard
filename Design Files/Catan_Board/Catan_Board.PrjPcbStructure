@@ -1,2 +1,5 @@
-Record=TopLevelDocument|FileName=MCU.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=POWER.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Battery_Management.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Battery_Management.SchDoc|FileName=Level_Shifter.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Battery_Management.SchDoc|FileName=MCU-Section.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Battery_Management.SchDoc|FileName=Power-Section.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Battery_Management.SchDoc|FileName=Regulator-Section.SchDoc|SheetNumber=3
