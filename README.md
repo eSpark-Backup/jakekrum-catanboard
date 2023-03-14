@@ -11,11 +11,11 @@ The product will comprise of 2 x PCBs that will be referred throughout the cours
 * Ports that will allow for hot-swappable connection between this PCB and the ones that will be powered from it. This essentially means JST port that can connect to the secondary PCB.
 * Electric capability to power 195 WS2812B LED lights.
 Lithium Ion battery IO for charging, and with enough voltage and capacity to run the whole system for at least an hour. The battery chemistry and size are not final and depend on the final recommendation / negotiation between contractor and customer.
-* A port or set of soldering pads (TH) for a latching on/off switch to be easily installed. The latch switch is a 5-pin having built-in LED as well. The connection diagram of the switch is updated below.
+* A port or set of soldering pads (TH) for a latching on/off switch to be easily installed. The [latch switch](https://www.amazon.com/dp/B01N751TAW/?coliid=I3CWPAK9FYR0DM&colid=2Q13YGGRGO5Q0&psc=1&ref_=lv_ov_lig_dp_it) is a 5-pin having built-in LED as well. The connection diagram of the switch is updated below. The latch ON/OFF will be connected directly after the Power ORING.
 * A port or set of soldering pads (TH) for a charging port to be easily installed.
-* A port or set of soldering pads (TH) for a battery monitoring product. There will be 2 x soldering pads given after the latch circuit.
+* A port or set of soldering pads (TH) for a battery monitoring product. There will be 2 x soldering pads given after the ON/OFF latch circuit.
 * Ports or soldering pads (TH) for (5) momentary push buttons to be easily installed and individually addressable.
-* A port or set of soldering pads (TH) for (1) latching switch to be easily installed and individually addressable. [This](https://www.amazon.com/dp/B07932GYNH/?coliid=I1BGYOLNOSBITM&colid=2Q13YGGRGO5Q0&ref_=lv_ov_lig_dp_it&th=1) switch will be used so it is advised to please add some switching capability since MCU will need voltage level translation in order to handle the LED on this switch.
+* A port or set of soldering pads (TH) for (1) latching switch to be easily installed and individually addressable. [This](https://www.amazon.com/dp/B01N751TAW/?coliid=I3CWPAK9FYR0DM&colid=2Q13YGGRGO5Q0&psc=1&ref_=lv_ov_lig_dp_it) switch will be used so it is advised to please add some switching capability since MCU will need voltage level translation in order to handle the LED on this switch.
 * Overall size should not exceed 3.5" x 3.5", though the battery and other buttons will be wired separately so this size limit only pertains to the PCB itself. There is a little bit of leeway with this sizing which can be discussed.
 
 #### Wiring diagram for Power ON/OFF Latch Switch
