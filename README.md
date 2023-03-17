@@ -12,7 +12,7 @@ The product will comprise of 2 x PCBs that will be referred throughout the cours
 * Electric capability to power 195 WS2812B LED lights.
 Lithium Ion battery IO for charging, and with enough voltage and capacity to run the whole system for at least an hour. The battery chemistry and size are not final and depend on the final recommendation / negotiation between contractor and customer.
 * A port or set of soldering pads (TH) for a latching on/off switch to be easily installed. The [latch switch](https://www.amazon.com/dp/B01N751TAW/?coliid=I3CWPAK9FYR0DM&colid=2Q13YGGRGO5Q0&psc=1&ref_=lv_ov_lig_dp_it) is a 5-pin having built-in LED as well. The connection diagram of the switch is updated below. The latch ON/OFF will be connected directly after the Power ORING.
-* The battery will be connected using wires directly so the board should only have 2 x TH holes for battery input.
+* The battery will be connected using [this](https://jlcpcb.com/partdetail/Jst_SalesAmerica-B3P_VH_LF_SN/C160316) connector. The middle pin of connector will be marked NC.
 * A port or set of soldering pads (TH) for a charging port to be easily installed.
 * A port or set of soldering pads (TH) for a [battery monitoring](https://www.amazon.com/Battery-Monitor-Capacity-Indicator-7-4V-56V/dp/B07CPYRP4P/ref=sr_1_1?crid=2FZFWZBFW3JP4&keywords=2s+li+ion+battery+monitor&qid=1678826163&sprefix=2s+li+ion+battery+mon%2Caps%2C817&sr=8-1) product. There will be 2 x soldering pads given after the ON/OFF latch circuit.
 * Ports or soldering pads (TH) for (5) momentary push buttons to be easily installed and individually addressable.
