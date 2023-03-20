@@ -18,6 +18,8 @@ Lithium Ion battery IO for charging, and with enough voltage and capacity to run
 * Ports or soldering pads (TH) for (5) momentary push buttons to be easily installed and individually addressable.
 * A port or set of soldering pads (TH) for (1) latching switch to be easily installed and individually addressable. [This](https://www.amazon.com/dp/B01N751TAW/?coliid=I3CWPAK9FYR0DM&colid=2Q13YGGRGO5Q0&psc=1&ref_=lv_ov_lig_dp_it) switch will be used so it is advised to please add some switching capability since MCU will need voltage level translation in order to handle the LED on this switch.
 * Overall size should not exceed 3.5" x 3.5", though the battery and other buttons will be wired separately so this size limit only pertains to the PCB itself. There is a little bit of leeway with this sizing which can be discussed.
+* 3 x TH pads that expose UART interface of STM32 (default UART only). If it is being used by another pin, then route the other pin elsewhere. The 3rd connection will be GND.
+* 14 x TH pads for additional 6 digital inputs. Add debouncing capacitors and pull ups like before which will consume 12 connections. Remaining 2 x connections will be 3.3V and 5V.
 
 #### Wiring diagram for Power ON/OFF Latch Switch
 ![image](https://user-images.githubusercontent.com/76909080/225118530-95e954ac-022a-475b-be2d-a2b5d80a3fc5.png)
