@@ -64,7 +64,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HJWPJRKE
 
 [Document2]
-DocumentPath=Hexagonal PCB.PcbDoc
+DocumentPath=Secondary_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -82,6 +82,10 @@ DocumentUniqueId=VLUYCQBT
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Secondary\Design Rule Check - Hexagonal PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Secondary\Design Rule Check - Secondary_PCB.html
 DItemRevisionGUID=
 
 [Configuration1]
