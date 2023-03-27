@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+C:\Users\XPENDER\Documents\GitHub\jakekrum-catanboard\Design Files\Catan_Board\Secondary_PCB\Project Outputs for Secondary\Pick Place for Secondary_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27/03/23
+Time:       18:27
+Revision:   324f11a566e32e1df5faa82881cfc744f2afe1c5
+Variant:    No variations
+Units used: mm
+
+Designator Layer    Center-X(mm) Center-Y(mm) Rotation Ref-X(mm)  Ref-Y(mm)  Pad-X(mm)  Pad-Y(mm)  
+C1         TopLayer -1,8373mm    -1,6873mm    0        -1,8373mm  -1,6873mm  -2,5993mm  -1,6873mm  
+C2         TopLayer -9,1425mm    -15,7286mm   0        -9,1425mm  -15,7286mm -9,9045mm  -15,7286mm 
+C3         TopLayer 8,1888mm     -22,4468mm   180      8,1888mm   -22,4468mm 8,9508mm   -22,4468mm 
+J1         TopLayer -14,5085mm   -12,0552mm   270      -14,5085mm -12,0552mm -14,5085mm -8,0952mm  
+J2         TopLayer 13,5529mm    -12,1060mm   90       13,5529mm  -12,1060mm 13,5529mm  -16,0660mm 
+LED1       TopLayer -0,4635mm    -5,0552mm    0        -0,4635mm  -5,0552mm  -2,9635mm  -3,4052mm  
+LED2       TopLayer -7,7952mm    -19,0552mm   0        -7,7952mm  -19,0552mm -10,2952mm -17,4052mm 
+LED3       TopLayer 6,8681mm     -19,0552mm   180      6,8681mm   -19,0552mm 9,3681mm   -20,7052mm 
