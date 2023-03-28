@@ -1,27 +1,27 @@
 Board Information Report
 Filename     : E:\jakekrum-catanboard\Design Files\Catan_Board\Master_PCB\Catan_board.PcbDoc
-Date         : 3/27/2023
-Time         : 1:46:51 PM
+Date         : 3/28/2023
+Time         : 3:27:39 PM
 Time Elapsed : 00:00:00
 
 General
-    Board Size, 80mmx59.6392mm
+    Board Size, 3149.606milsx2348mils
     Components on board, 133
 count : 2
 
 Routing Information
-    Routing completion, 22.04%
+    Routing completion, 68.09%
     Connections, 304
-    Connections routed, 67
-    Connections remaining, 237
+    Connections routed, 207
+    Connections remaining, 97
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 335, 0, 104, 0, 29, 0, 0
-    Bottom Layer, 0, 0, 0, 0, 0, 1, 0, 0
+    Top Layer, 0, 335, 0, 324, 0, 65, 0, 0
+    Bottom Layer, 0, 0, 0, 110, 0, 2, 0, 0
     Mechanical 1, 0, 0, 0, 16, 2, 0, 0, 114
     Dimension, 0, 0, 0, 4, 0, 0, 0, 0
-    Multi-Layer, 0, 73, 17, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 73, 83, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Top Overlay, 8, 0, 0, 785, 363, 14, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
