@@ -1,7 +1,7 @@
 Board Information Report
-Filename     : E:\jakekrum-catanboard\Design Files\Catan_Board\Master_PCB\Catan_board.PcbDoc
+Filename     : C:\Users\XPENDER\Documents\GitHub\jakekrum-catanboard\Design Files\Catan_Board\Master_PCB\Catan_board.PcbDoc
 Date         : 3/28/2023
-Time         : 3:27:39 PM
+Time         : 5:58:37 PM
 Time Elapsed : 00:00:00
 
 General
@@ -10,20 +10,20 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 68.09%
-    Connections, 304
-    Connections routed, 207
-    Connections remaining, 97
+    Routing completion, 88.62%
+    Connections, 325
+    Connections routed, 288
+    Connections remaining, 37
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 335, 0, 324, 0, 65, 0, 0
-    Bottom Layer, 0, 0, 0, 110, 0, 2, 0, 0
+    Top Layer, 0, 335, 0, 407, 0, 80, 0, 0
+    Bottom Layer, 0, 0, 0, 133, 0, 5, 0, 0
     Mechanical 1, 0, 0, 0, 16, 2, 0, 0, 114
     Dimension, 0, 0, 0, 4, 0, 0, 0, 0
-    Multi-Layer, 0, 73, 83, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 73, 104, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 8, 0, 0, 785, 363, 14, 0, 0
+    Top Overlay, 8, 0, 0, 785, 362, 14, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Overlay, 0, 0, 0, 0, 10, 0, 0, 0
@@ -35,3 +35,8 @@ count : 14
 
 Drill Pairs, Vias
 count : 0
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 2.982, 1923.718, 40%
+    Bottom Layer, 0.968, 624.425, 13%
+count : 2
