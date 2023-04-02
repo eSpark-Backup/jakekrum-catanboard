@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Master.PrjPcb]
+   Generated File[Catan_board-RoundHoles.TXT]
+   Generated File[Catan_board-SlotHoles.TXT]
+   Generated File[Catan_board.LDP]
+   Generated File[Catan_board.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 7:21:18 AM On 4/2/2023
