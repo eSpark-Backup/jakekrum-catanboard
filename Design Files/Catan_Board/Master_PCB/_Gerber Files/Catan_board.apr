@@ -301,4 +301,5 @@ D312  RECTANGULAR       119.000     245.000       0.000 FLASH       0.000
 D313  RECTANGULAR        95.000     677.000       0.000 FLASH       0.000
 D314  ROUNDED             1.000       1.000       0.000  LINE       0.000
 D315  ROUNDED             2.000       2.000       0.000  LINE       0.000
-D316  ROUNDED             2.667       2.667       0.000  LINE       0.000
+D316  ROUNDED            16.000      16.000       0.000  LINE       0.000
+D317  ROUNDED            14.000      14.000       0.000  LINE       0.000
