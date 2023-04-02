@@ -5,8 +5,8 @@ C:\Users\XPENDER\Documents\GitHub\jakekrum-catanboard\Design Files\Catan_Board\M
 File Design Information:
 
 Date:       02/04/23
-Time:       07:13
-Revision:   aa0b61984822388100897db47888afebc60c5238
+Time:       18:49
+Revision:   3f1bb85fa545bad7857bc315bb794cb839e44eae
 Variant:    No variations
 Units used: mm
 
@@ -103,14 +103,14 @@ P7         TopLayer -0,3302mm    28,5750mm    0        -0,3302mm 28,5750mm -0,33
 P8         TopLayer 26,9240mm    47,1932mm    0        26,9240mm 47,1932mm 26,9240mm 47,1932mm 
 P9         TopLayer 26,9240mm    42,2656mm    270      26,9240mm 42,2656mm 26,9240mm 42,2656mm 
 Q1         TopLayer 31,5722mm    4,0132mm     90       31,5722mm 4,0132mm  35,0222mm 1,7132mm  
-Q2         TopLayer 49,0220mm    46,7614mm    0        49,0220mm 46,7614mm 48,0720mm 45,7614mm 
+Q2         TopLayer 49,0220mm    46,5328mm    0        49,0220mm 46,5328mm 48,0720mm 45,5328mm 
 R1         TopLayer 64,3128mm    10,6680mm    90       64,3128mm 10,6680mm 64,3128mm 8,3180mm  
 R2         TopLayer 67,3100mm    23,2664mm    180      67,3100mm 23,2664mm 68,0720mm 23,2664mm 
 R3         TopLayer 14,1224mm    11,3538mm    0        14,1224mm 11,3538mm 13,6525mm 11,3538mm 
 R5         TopLayer 71,5518mm    20,8026mm    270      71,5518mm 20,8026mm 71,5518mm 21,5646mm 
 R6         TopLayer 67,3100mm    26,2890mm    0        67,3100mm 26,2890mm 66,5480mm 26,2890mm 
-R7         TopLayer 49,0982mm    44,5516mm    0        49,0982mm 44,5516mm 48,3362mm 44,5516mm 
-R8         TopLayer 51,4350mm    46,8630mm    90       51,4350mm 46,8630mm 51,4350mm 46,1010mm 
+R7         TopLayer 49,0982mm    44,3230mm    0        49,0982mm 44,3230mm 48,3362mm 44,3230mm 
+R8         TopLayer 51,4350mm    46,6344mm    90       51,4350mm 46,6344mm 51,4350mm 45,8724mm 
 R9         TopLayer 51,6992mm    26,6192mm    270      51,6992mm 26,6192mm 51,6992mm 27,3812mm 
 R10        TopLayer 67,3100mm    24,8412mm    0        67,3100mm 24,8412mm 66,5480mm 24,8412mm 
 R11        TopLayer 11,5062mm    8,5852mm     180      11,5062mm 8,5852mm  12,2682mm 8,5852mm  
