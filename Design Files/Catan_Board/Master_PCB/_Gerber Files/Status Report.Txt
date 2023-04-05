@@ -1,10 +1,13 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [Master.PrjPcb]
-   Generated File[Pick Place for Catan_board.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Master.PrjPcb]
+   Generated File[Catan_board-RoundHoles.TXT]
+   Generated File[Catan_board-SlotHoles.TXT]
+   Generated File[Catan_board.LDP]
+   Generated File[Catan_board.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 10:21:43 PM On 4/2/2023
+Finished Output Generation At 4:40:19 PM On 4/5/2023

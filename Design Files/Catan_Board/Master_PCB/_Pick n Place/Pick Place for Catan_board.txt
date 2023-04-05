@@ -4,9 +4,9 @@ C:\Users\XPENDER\Documents\GitHub\jakekrum-catanboard\Design Files\Catan_Board\M
 ========================================================================================================================
 File Design Information:
 
-Date:       02/04/23
-Time:       22:20
-Revision:   4ea001b3070bbb8001e2491b6335bb33af53f691
+Date:       05/04/23
+Time:       16:39
+Revision:   07e75e62b2ee64574ffaa89a847e660baf212acf
 Variant:    No variations
 Units used: mm
 
@@ -47,7 +47,7 @@ C33        TopLayer 0,3175mm     10,5029mm    90       0,3175mm  10,5029mm 0,317
 C34        TopLayer 11,5062mm    11,3792mm    180      11,5062mm 11,3792mm 12,2682mm 11,3792mm 
 C35        TopLayer 16,4084mm    11,3284mm    180      16,4084mm 11,3284mm 17,1704mm 11,3284mm 
 C36        TopLayer 31,7246mm    18,9484mm    0        31,7246mm 18,9484mm 27,4846mm 18,9484mm 
-C37        TopLayer 18,3388mm    32,1818mm    180      18,3388mm 32,1818mm 22,6888mm 32,1818mm 
+C37        TopLayer 18,3388mm    32,1818mm    180      18,3388mm 32,1818mm 21,5888mm 32,1818mm 
 C38        TopLayer 69,5198mm    48,9204mm    0        69,5198mm 48,9204mm 68,2498mm 48,9204mm 
 C40        TopLayer 37,7952mm    8,6614mm     270      37,7952mm 8,6614mm  37,7952mm 9,4234mm  
 C41        TopLayer 41,2750mm    8,9916mm     270      41,2750mm 8,9916mm  41,2750mm 9,7536mm  
