@@ -27,3 +27,6 @@ Lithium Ion battery IO for charging, and with enough voltage and capacity to run
 ### Secondary PCB
 * It will feature 2 x JST ports 3-pin on either sides for IN and OUT connections forming daisy chain and will simply have 3 WS2812B LED lights in the center. [This](https://jlcpcb.com/partdetail/Jst_SalesAmerica-B3P_VH_LF_SN/C160316) is the selected JST connector for both IN and OUT.
 * Size of the PCB will be 1.5" short diagonal x 1.7" long diagonal hexagonal PCB.
+
+## Firmware Upload Guide
+https://docs.google.com/document/d/1aXgiqs7kVOzIvFUPHuHKmjDk4W4o1UWGosl2V-FZA0g/edit#heading=h.tarcyzppqeto
