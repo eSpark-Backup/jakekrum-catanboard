@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Catan_board.PcbDoc   7/19/2023  2:02:18 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Catan_board-RoundHoles.TXT
+ASCII SlotHoles File : Catan_board-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             568       PTH        41.12inch (1044.50mm)
+T2      20mil (0.5mm)                                             Slot              3         PTH        0.60inch (15.30mm)
+T3      35mil (0.9mm)                                             Round             2         PTH        0.10inch (2.54mm)
+T4      39mil (1mm)                                               Round             41        PTH        12.96inch (329.20mm)
+T5      71mil (1.8mm)                                             Round             6         PTH        2.42inch (61.48mm)
+T6      79mil (2mm)                                               Round             4         NPTH       9.82inch (249.52mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              624
+
+Total Processing Time (hh:mm:ss) : 00:00:00
